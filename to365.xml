@@ -30,49 +30,93 @@
 		<Content>
 			<!-- Том -->
 			<guid_1A0DAEC2-60C5-4409-89F9-7D81381BB423>
-				<ObjectDefName>
-					O_Volume
-				</ObjectDefName>
-				<A_Str_Designation>
-					0203.001.П.1/1.0001-ИОС1.1
-				</A_Str_Designation>
-				<A_Str_Name>
-					Раздел 5. Сведения об инженерном оборудовании, о сетях инженерно-технического обеспечения, перечень инженерно-технических мероприятий, содержание технологических решений. Подраздел 1. Система электроснабжения. Часть 1. Основная электросистема.
-				</A_Str_Name>
-				<A_Int_ChangeNum>
-					8
-				</A_Int_ChangeNum>
-				<A_Date_End_Fact>
-					24.11.2021
-				</A_Date_End_Fact>
-				<A_Ref_Section>
-					P-SECTIONS-AREA-IOS-IOS1
-				</A_Ref_Section>
-				<A_Ref_Build>
-					D7683875-4730-46F9-933E-66D5E99A4D1A
-				</A_Ref_Build>
-				<A_Ref_Part>
-					E57103AF-E7ED-4410-B596-2D9648FE8793
-				</A_Ref_Part>
-				<A_Ref_Complex>
-					2B1C6ED4-17B0-4553-8756-B631F640BB9A
-				</A_Ref_Complex>
-				<A_Ref_Project>
-					DEBDC3FF-E9E0-4F29-A948-E0F6FB7306AC
-				</A_Ref_Project>
-				<A_User_GIP>
-					USER_F6798DB1_3AB3_471A_A9E8_C6CEC2B49748
-				</A_User_GIP>
-				<A_Ref_Organization>
-				</A_Ref_Organization>
-				<A_Str_Note>
-				</A_Str_Note>
+				<Attributes>
+					<ObjectDefName>
+						O_Volume
+					</ObjectDefName>
+					<A_Str_Designation>
+						0203.001.П.1/1.0001-ИОС1.1
+					</A_Str_Designation>
+					<A_Str_Name>
+						Раздел 5. Сведения об инженерном оборудовании, о сетях инженерно-технического обеспечения, перечень инженерно-технических мероприятий, содержание технологических решений. Подраздел 1. Система электроснабжения. Часть 1. Основная электросистема.
+					</A_Str_Name>
+					<A_Int_ChangeNum>
+						8
+					</A_Int_ChangeNum>
+					<A_Date_End_Fact>
+						24.11.2021
+					</A_Date_End_Fact>
+					<A_Ref_Section>
+						P-SECTIONS-AREA-IOS-IOS1
+					</A_Ref_Section>
+					<A_Ref_Build>
+						D7683875-4730-46F9-933E-66D5E99A4D1A
+					</A_Ref_Build>
+					<A_Ref_Part>
+						E57103AF-E7ED-4410-B596-2D9648FE8793
+					</A_Ref_Part>
+					<A_Ref_Complex>
+						2B1C6ED4-17B0-4553-8756-B631F640BB9A
+					</A_Ref_Complex>
+					<A_Ref_Project>
+						DEBDC3FF-E9E0-4F29-A948-E0F6FB7306AC
+					</A_Ref_Project>
+					<A_User_GIP>
+						USER_F6798DB1_3AB3_471A_A9E8_C6CEC2B49748
+					</A_User_GIP>
+					<A_Ref_Organization>
+						E17BC391-8108-4DCD-A06C-6E3F6406CF2A
+					</A_Ref_Organization>
+					<A_Str_Note>
+					</A_Str_Note>
+				</Attributes>
 			</guid_1A0DAEC2-60C5-4409-89F9-7D81381BB423>
+			<!-- Комплект -->
+			<guid_816C6166-B562-4EEC-BDFF-38ABAC81EB79>
+				<Attributes>
+					<ObjectDefName>
+						O_Set
+					</ObjectDefName>
+					<!-- Марка комплекта чертежей -->
+					<A_Ref_Mark>
+						D1019109-4AFB-4B03-81DC-9EE68E97C0E9
+					</A_Ref_Mark>
+					<A_Str_Designation>
+						0203.001.Р.1/2.0001.ГГРС.001.1102.12-ЭС
+					</A_Str_Designation>
+					<A_Str_Name>
+						ЮЕГ. РАСШИРЕНИЕ ЕСГ ДЛЯ ОБЕСПЕЧЕНИЯ ПОДАЧИ ГАЗА В ГАЗОПРОВОД «ЮЖНЫЙ ПОТОК». Газопроводы газораспределительных систем. Газораспределительная станция. Электроснабжение
+					</A_Str_Name>
+					<A_Int_ChangeNum>
+						4
+					</A_Int_ChangeNum>
+					<A_Date_End_Fact>
+					</A_Date_End_Fact>
+					<A_Ref_Build>
+						8BD91B25-748A-4CDF-A3FE-A1D840A97E83
+					</A_Ref_Build>
+					<A_Ref_Part>
+						E57103AF-E7ED-4410-B596-2D9648FE8793
+					</A_Ref_Part>
+					<A_Ref_Complex>
+						2B1C6ED4-17B0-4553-8756-B631F640BB9A
+					</A_Ref_Complex>
+					<A_Ref_Project>
+						DEBDC3FF-E9E0-4F29-A948-E0F6FB7306AC
+					</A_Ref_Project>
+					<A_User_GIP>
+						USER_F6798DB1_3AB3_471A_A9E8_C6CEC2B49748
+					</A_User_GIP>
+					<A_Ref_Organization>
+						E17BC391-8108-4DCD-A06C-6E3F6406CF2A
+					</A_Ref_Organization>
+				</Attributes>
+			</guid_816C6166-B562-4EEC-BDFF-38ABAC81EB79>
 		</Content>
 	</O_Bill>
 	<Links>
 		<!-- Organizaton -->
-		<E17BC391-8108-4DCD-A06C-6E3F6406CF2A>
+		<guid_E17BC391-8108-4DCD-A06C-6E3F6406CF2A>
 			<Attributes>
 				<ObjectDefName>
 					O_Organization
@@ -97,7 +141,7 @@
 				<A_Str_EMail>
 				</A_Str_EMail>
 			</Attributes>
-		</E17BC391-8108-4DCD-A06C-6E3F6406CF2A>
+		</guid_E17BC391-8108-4DCD-A06C-6E3F6406CF2A>
 		<!-- User -->
 		<guid_USER_D29212C0_C2E0_4AA4_8F43_ADAEA7263E27>
 			<Attributes>
@@ -235,7 +279,7 @@
 					Разделы документации
 				</A_Str_Name>
 			</Attributes>
-			<P-SECTIONS>
+			<guid_P-SECTIONS>
 				<Attributes>
 					<ObjectDefName>
 						O_Catalogs_Object
@@ -250,7 +294,7 @@
 						True
 					</A_Bool_NotAssign>
 				</Attributes>
-				<P-SECTIONS-AREA>
+				<guid_P-SECTIONS-AREA>
 					<Attributes>
 						<ObjectDefName>
 							O_Catalogs_Object
@@ -265,7 +309,7 @@
 							True
 						</A_Bool_NotAssign>
 					</Attributes>
-					<P-SECTIONS-AREA-IOS>
+					<guid_P-SECTIONS-AREA-IOS>
 						<Attributes>
 							<ObjectDefName>
 								O_Catalogs_Object
@@ -280,7 +324,7 @@
 								False
 							</A_Bool_NotAssign>
 						</Attributes>
-						<P-SECTIONS-AREA-IOS-IOS1>
+						<guid_P-SECTIONS-AREA-IOS-IOS1>
 							<Attributes>
 								<ObjectDefName>
 									O_Catalogs_Object
@@ -295,10 +339,37 @@
 									False
 								</A_Bool_NotAssign>
 							</Attributes>
-						</P-SECTIONS-AREA-IOS-IOS1>
-					</P-SECTIONS-AREA-IOS>
-				</P-SECTIONS-AREA>
-			</P-SECTIONS>
+						</guid_P-SECTIONS-AREA-IOS-IOS1>
+					</guid_P-SECTIONS-AREA-IOS>
+				</guid_P-SECTIONS-AREA>
+			</guid_P-SECTIONS>
 		</guid_D41C9AEB-C85E-4A28-B32F-61F26DA35D44>
+		<!-- Марки РД -->
+		<guid_46878231-5D53-44DD-BBB2-B11296DED163>
+			<Attributes>
+				<ObjectDefName>
+					O_Folder
+				</ObjectDefName>
+				<A_Str_Name>
+					Марки РД
+				</A_Str_Name>
+			</Attributes>
+			<guid_D1019109-4AFB-4B03-81DC-9EE68E97C0E9>
+				<Attributes>
+					<ObjectDefName>
+						O_Catalogs_Object
+					</ObjectDefName>
+					<A_Str_ChrCode>
+						ЭС
+					</A_Str_ChrCode>
+					<A_Str_Name>
+						Электроснабжение
+					</A_Str_Name>
+					<A_Bool_NotAssign>
+						False
+					</A_Bool_NotAssign>
+				</Attributes>
+			</guid_D1019109-4AFB-4B03-81DC-9EE68E97C0E9>
+		</guid_46878231-5D53-44DD-BBB2-B11296DED163>
 	</Dictionary>
 </root>
