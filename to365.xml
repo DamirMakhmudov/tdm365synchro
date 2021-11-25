@@ -1,0 +1,304 @@
+<?xml version="1.0"?>
+<root>
+	<O_Bill>
+		<Attributes>
+			<ObjectDefName>
+				O_Bill
+			</ObjectDefName>
+			<Description>
+				0001-XXX1-19 от 14.10.2019 (Санкт-Петербургский филиал)
+			</Description>
+			<A_Str_Designation>
+				0001-XXX1-19
+			</A_Str_Designation>
+			<TypeOfDocument>
+				Передаточный документ
+			</TypeOfDocument>
+			<A_Ref_Organization>
+				{E17BC391-8108-4DCD-A06C-6E3F6406CF2A}
+			</A_Ref_Organization>
+			<A_Str_Note>
+				некий текст
+			</A_Str_Note>
+			<A_User_GIP>
+				USER_D29212C0_C2E0_4AA4_8F43_ADAEA7263E27
+			</A_User_GIP>
+			<A_Ref_Project>
+				DEBDC3FF-E9E0-4F29-A948-E0F6FB7306AC
+			</A_Ref_Project>
+		</Attributes>
+		<Content>
+			<!-- Том -->
+			<guid_1A0DAEC2-60C5-4409-89F9-7D81381BB423>
+				<ObjectDefName>
+					O_Volume
+				</ObjectDefName>
+				<A_Str_Designation>
+					0203.001.П.1/1.0001-ИОС1.1
+				</A_Str_Designation>
+				<A_Str_Name>
+					Раздел 5. Сведения об инженерном оборудовании, о сетях инженерно-технического обеспечения, перечень инженерно-технических мероприятий, содержание технологических решений. Подраздел 1. Система электроснабжения. Часть 1. Основная электросистема.
+				</A_Str_Name>
+				<A_Int_ChangeNum>
+					8
+				</A_Int_ChangeNum>
+				<A_Date_End_Fact>
+					24.11.2021
+				</A_Date_End_Fact>
+				<A_Ref_Section>
+					P-SECTIONS-AREA-IOS-IOS1
+				</A_Ref_Section>
+				<A_Ref_Build>
+					D7683875-4730-46F9-933E-66D5E99A4D1A
+				</A_Ref_Build>
+				<A_Ref_Part>
+					E57103AF-E7ED-4410-B596-2D9648FE8793
+				</A_Ref_Part>
+				<A_Ref_Complex>
+					2B1C6ED4-17B0-4553-8756-B631F640BB9A
+				</A_Ref_Complex>
+				<A_Ref_Project>
+					DEBDC3FF-E9E0-4F29-A948-E0F6FB7306AC
+				</A_Ref_Project>
+				<A_User_GIP>
+					USER_F6798DB1_3AB3_471A_A9E8_C6CEC2B49748
+				</A_User_GIP>
+				<A_Ref_Organization>
+				</A_Ref_Organization>
+				<A_Str_Note>
+				</A_Str_Note>
+			</guid_1A0DAEC2-60C5-4409-89F9-7D81381BB423>
+		</Content>
+	</O_Bill>
+	<Links>
+		<!-- Organizaton -->
+		<E17BC391-8108-4DCD-A06C-6E3F6406CF2A>
+			<Attributes>
+				<ObjectDefName>
+					O_Organization
+				</ObjectDefName>
+				<A_Str_Name>
+					Санкт-Петербургcкий филиал
+				</A_Str_Name>
+				<A_Str_Name_Short>
+				</A_Str_Name_Short>
+				<A_Str_Inn>
+				</A_Str_Inn>
+				<A_Str_Subcontractor_Code>
+				</A_Str_Subcontractor_Code>
+				<ContactDescription>
+				</ContactDescription>
+				<A_Str_Kpp>
+				</A_Str_Kpp>
+				<A_Str_Phone>
+				</A_Str_Phone>
+				<A_Str_Address>
+				</A_Str_Address>
+				<A_Str_EMail>
+				</A_Str_EMail>
+			</Attributes>
+		</E17BC391-8108-4DCD-A06C-6E3F6406CF2A>
+		<!-- User -->
+		<guid_USER_D29212C0_C2E0_4AA4_8F43_ADAEA7263E27>
+			<Attributes>
+				<ObjectDefName>
+					TDMSUser
+				</ObjectDefName>
+				<Description>
+					Кожевников Андрей Иванович
+				</Description>
+				<firstname>
+					Андрей
+				</firstname>
+				<secondname>
+					Кожевников
+				</secondname>
+				<patronymic>
+					Иванович
+				</patronymic>
+				<telephone>
+				</telephone>
+				<email>
+				</email>
+			</Attributes>
+		</guid_USER_D29212C0_C2E0_4AA4_8F43_ADAEA7263E27>
+		<guid_USER_F6798DB1_3AB3_471A_A9E8_C6CEC2B49748>
+			<Attributes>
+				<ObjectDefName>
+					TDMSUser
+				</ObjectDefName>
+				<Description>
+					Мусатов И.Н.
+				</Description>
+				<firstname>
+					И
+				</firstname>
+				<secondname>
+					Мусатов
+				</secondname>
+				<patronymic>
+					Н
+				</patronymic>
+				<telephone>
+				</telephone>
+				<email>
+				</email>
+			</Attributes>
+		</guid_USER_F6798DB1_3AB3_471A_A9E8_C6CEC2B49748>
+	</Links>
+	<!-- Справочники -->
+	<Dictionary>
+		<!-- Комплекс -->
+		<guid_2B1C6ED4-17B0-4553-8756-B631F640BB9A>
+			<Attributes>
+				<ObjectDefName>
+					O_Complex
+				</ObjectDefName>
+				<A_Str_Designation>
+					0203
+				</A_Str_Designation>
+				<A_Str_Name>
+					Расширение ЕСГ для обеспечения подачи газа в газопровод «Южный поток».1-й этап (Западный коридор), для обеспечения подачи газа в объеме 31,5 млрд. м3/
+				</A_Str_Name>
+				<A_Str_Note>
+				</A_Str_Note>
+			</Attributes>
+			<!-- Структура комплекса -->
+			<guid_28ECF8F2-0124-41EA-B37F-CED9190146CC>
+				<Attributes>
+					<ObjectDefName>
+						O_Folder_Complex_Structure`
+					</ObjectDefName>
+					<A_Str_Name>
+						Структура комплекса
+					</A_Str_Name>
+				</Attributes>
+				<!-- Часть комплекса -->
+				<guid_E57103AF-E7ED-4410-B596-2D9648FE8793>
+					<Attributes>
+						<ObjectDefName>
+							O_Part
+						</ObjectDefName>
+						<A_Str_Designation>
+							0203.КТО.001
+						</A_Str_Designation>
+						<A_Str_Name>
+							Комплекс термического обезвреживания отходов
+						</A_Str_Name>
+						<A_Str_Note>
+							ыавава
+						</A_Str_Note>
+					</Attributes>
+					<!-- Здание/Сооружение -->
+					<guid_D7683875-4730-46F9-933E-66D5E99A4D1A>
+						<Attributes>
+							<ObjectDefName>
+								O_Building
+							</ObjectDefName>
+							<A_Str_Designation>
+								0203.КТО.001.4701- 4799.007
+							</A_Str_Designation>
+							<A_Str_Name>
+								Линии электропередач воздушные и электротехнические коммуникации
+							</A_Str_Name>
+							<A_Str_Note>
+							</A_Str_Note>
+						</Attributes>
+					</guid_D7683875-4730-46F9-933E-66D5E99A4D1A>
+				</guid_E57103AF-E7ED-4410-B596-2D9648FE8793>
+			</guid_28ECF8F2-0124-41EA-B37F-CED9190146CC>
+			<!-- Проект -->
+			<guid_DEBDC3FF-E9E0-4F29-A948-E0F6FB7306AC>
+				<Attributes>
+					<ObjectDefName>
+						O_Project
+					</ObjectDefName>
+					<A_Str_Designation>
+						0203.001.001
+					</A_Str_Designation>
+					<A_Str_Name>
+						1-Й ЭТАП (ВОСТОЧНЫЙ КОРИДОР), ДЛЯ ОБЕСПЕЧЕНИЯ ПОДАЧИ ГАЗА В ОБЪЕМЕ ДО 63 МЛРД.М3/ГОД Этап 2.1. Линейная часть. Участок «Починки-Анапа», км 0 –км 347,5 (км 0 – км 181, км 181 – км 295,7, км 295,7 – км 347,5)
+					</A_Str_Name>
+					<A_Ref_Complex>
+						2B1C6ED4-17B0-4553-8756-B631F640BB9A
+					</A_Ref_Complex>
+				</Attributes>
+			</guid_DEBDC3FF-E9E0-4F29-A948-E0F6FB7306AC>
+		</guid_2B1C6ED4-17B0-4553-8756-B631F640BB9A>
+		<!-- Разделы документации -->
+		<guid_D41C9AEB-C85E-4A28-B32F-61F26DA35D44>
+			<Attributes>
+				<ObjectDefName>
+					O_Folder
+				</ObjectDefName>
+				<A_Str_Name>
+					Разделы документации
+				</A_Str_Name>
+			</Attributes>
+			<P-SECTIONS>
+				<Attributes>
+					<ObjectDefName>
+						O_Catalogs_Object
+					</ObjectDefName>
+					<A_Str_ChrCode>
+						П
+					</A_Str_ChrCode>
+					<A_Str_Name>
+						Проектная документация
+					</A_Str_Name>
+					<A_Bool_NotAssign>
+						True
+					</A_Bool_NotAssign>
+				</Attributes>
+				<P-SECTIONS-AREA>
+					<Attributes>
+						<ObjectDefName>
+							O_Catalogs_Object
+						</ObjectDefName>
+						<A_Str_ChrCode>
+							П
+						</A_Str_ChrCode>
+						<A_Str_Name>
+							Разделы проектных документов для площадных сооружений
+						</A_Str_Name>
+						<A_Bool_NotAssign>
+							True
+						</A_Bool_NotAssign>
+					</Attributes>
+					<P-SECTIONS-AREA-IOS>
+						<Attributes>
+							<ObjectDefName>
+								O_Catalogs_Object
+							</ObjectDefName>
+							<A_Str_ChrCode>
+								ИОС
+							</A_Str_ChrCode>
+							<A_Str_Name>
+								Сведения об инженерном оборудовании, о сетях инженерно-технического обеспечения, перечень инженерно-технических мероприятий, содержание технологических решений
+							</A_Str_Name>
+							<A_Bool_NotAssign>
+								False
+							</A_Bool_NotAssign>
+						</Attributes>
+						<P-SECTIONS-AREA-IOS-IOS1>
+							<Attributes>
+								<ObjectDefName>
+									O_Catalogs_Object
+								</ObjectDefName>
+								<A_Str_ChrCode>
+									ИОС1
+								</A_Str_ChrCode>
+								<A_Str_Name>
+									Система электроснабжения
+								</A_Str_Name>
+								<A_Bool_NotAssign>
+									False
+								</A_Bool_NotAssign>
+							</Attributes>
+						</P-SECTIONS-AREA-IOS-IOS1>
+					</P-SECTIONS-AREA-IOS>
+				</P-SECTIONS-AREA>
+			</P-SECTIONS>
+		</guid_D41C9AEB-C85E-4A28-B32F-61F26DA35D44>
+	</Dictionary>
+</root>
