@@ -26,6 +26,8 @@
 			<A_Ref_Project>
 				DEBDC3FF-E9E0-4F29-A948-E0F6FB7306AC
 			</A_Ref_Project>
+			<Folder>
+			</Folder>
 		</Attributes>
 		<Content>
 			<!-- Том -->
@@ -69,6 +71,8 @@
 					</A_Ref_Organization>
 					<A_Str_Note>
 					</A_Str_Note>
+					<Folder>
+					</Folder>
 				</Attributes>
 			</guid_1A0DAEC2-60C5-4409-89F9-7D81381BB423>
 			<!-- Комплект -->
@@ -110,6 +114,8 @@
 					<A_Ref_Organization>
 						E17BC391-8108-4DCD-A06C-6E3F6406CF2A
 					</A_Ref_Organization>
+					<Folder>
+					</Folder>
 				</Attributes>
 			</guid_816C6166-B562-4EEC-BDFF-38ABAC81EB79>
 		</Content>
