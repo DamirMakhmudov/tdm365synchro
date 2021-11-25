@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <root>
-	<O_Bill>
+	<guid_5E9FD474-EF02-4D56-B3E9-37751DD056DE>
 		<Attributes>
 			<ObjectDefName>
 				O_Bill
@@ -119,7 +119,7 @@
 				</Attributes>
 			</guid_816C6166-B562-4EEC-BDFF-38ABAC81EB79>
 		</Content>
-	</O_Bill>
+	</guid_5E9FD474-EF02-4D56-B3E9-37751DD056DE>
 	<Links>
 		<!-- Organizaton -->
 		<guid_E17BC391-8108-4DCD-A06C-6E3F6406CF2A>
