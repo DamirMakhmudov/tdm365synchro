@@ -1,1 +1,8 @@
-<root><O_Bill guid="{5E9FD474-EF02-4D56-B3E9-37751DD056DE}" Description="0001-XXX1-19 от 14.10.2019 (Санкт-Петербургcкий филиал)" A_Ref_Project="{DEBDC3FF-E9E0-4F29-A948-E0F6FB7306AC}" A_User_GIP="USER_D29212C0_C2E0_4AA4_8F43_ADAEA7263E27"/></root>
+<root>
+	<Links />
+	<Dictionary />
+	<O_Bill guid="{5E9FD474-EF02-4D56-B3E9-37751DD056DE}" Folder="" Description="0001-XXX1-19 от 14.10.2019 (Санкт-Петербургcкий филиал)" A_Str_Note="некий текст" A_Str_Designation="0001-XXX1-19" A_Ref_Project="{DEBDC3FF-E9E0-4F29-A948-E0F6FB7306AC}" A_Ref_Organization="{E17BC391-8108-4DCD-A06C-6E3F6406CF2A}" A_User_GIP="USER_D29212C0_C2E0_4AA4_8F43_ADAEA7263E27">
+		<O_Volume guid="{1A0DAEC2-60C5-4409-89F9-7D81381BB423}" Folder="" Description="0203.001.П.1/1.0001-ИОС1.1 изм.8" A_Str_Note="" A_Str_Designation="0203.001.П.1/1.0001-ИОС1.1" A_Date_End_Fact="" A_Int_ChangeNum="8" A_Str_Name="Раздел 5. Сведения об инженерном оборудовании, о сетях инженерно-технического обеспечения, перечень инженерно-технических мероприятий, содержание технологических решений. Подраздел 1. Система электроснабжения. Часть 1. Основная электросистема." A_Ref_Project="{DEBDC3FF-E9E0-4F29-A948-E0F6FB7306AC}" A_User_GIP="USER_F6798DB1_3AB3_471A_A9E8_C6CEC2B49748" A_Ref_Section="P-SECTIONS-AREA-IOS-IOS1" />
+		<O_Volume guid="{4AE24A0C-ED10-4626-B025-567773E4B463}" Folder="" Description="0203.001.001.П.1/1.0001-ПЗУ изм.1" A_Str_Note="" A_Str_Designation="0203.001.001.П.1/1.0001-ПЗУ" A_Date_End_Fact="" A_Int_ChangeNum="1" A_Str_Name="Раздел 2. Схема планировочной организации земельного участка." A_Ref_Project="{DEBDC3FF-E9E0-4F29-A948-E0F6FB7306AC}" A_User_GIP="USER_F6798DB1_3AB3_471A_A9E8_C6CEC2B49748" A_Ref_Section="P-SECTIONS-AREA-PZU" />
+	</O_Bill>
+</root>
