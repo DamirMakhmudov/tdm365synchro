@@ -17,7 +17,7 @@
 	<Dictionary>
 		<O_Complex guid="{2B1C6ED4-17B0-4553-8756-B631F640BB9A}" A_Str_Note="" A_Str_Name="Расширение ЕСГ для обеспечения подачи газа в газопровод «Южный поток».1-й этап (Западный коридор), для обеспечения подачи газа в объеме 31,5 млрд. м3/" A_Str_Designation="0203">
 			<O_Folder_Complex_Structure guid="{28ECF8F2-0124-41EA-B37F-CED9190146CC}" A_Str_Name="Структура комплекса">
-				<O_Part guid="{E57103AF-E7ED-4410-B596-2D9648FE8793}" A_Str_Designation="0203.КТО.001" A_Str_Name="	Комплекс термического обезвреживания отходов" A_Str_Note="ыавава">
+				<O_Part guid="{E57103AF-E7ED-4410-B596-2D9648FE8793}" A_Ref_Complex="{2B1C6ED4-17B0-4553-8756-B631F640BB9A}" A_Str_Designation="0203.КТО.001" A_Str_Name="	Комплекс термического обезвреживания отходов" A_Str_Note="ыавава">
 					<O_Building guid="{D7683875-4730-46F9-933E-66D5E99A4D1A}" A_Str_Note="" A_Str_Designation="0203.КТО.001.4701- 4799.007" A_Str_Name="Линии электропередач воздушные и электротехнические коммуникации">
 					</O_Building>
 				</O_Part>
