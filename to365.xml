@@ -1,1 +1,8 @@
-<root><Links><USER_DEF guid="U_X_1A89DB6E-88C2-11DE-899E-0018F37790CC" Description="Абашина Галина Ивановна" firstname="Галина" secondname="gabashina@gazpromproject.ru" Phone="(783) 36911" patronymic="Ивановна" email="gabashina@gazpromproject.ru"/></Links><O_ClaimRegistry ObjGuid="{C38A4959-D34C-467E-99FF-95B779DFCAD5}" ObjGuidExternal="{616476DE-31B5-48AE-9AE4-3CAD20BE824B}"><O_DocClaim Folder="G7cc3X9uj" ObjGuid="{60D65FB1-DCB1-4FE4-98D0-5AFEC0979BE7}" ObjGuidExternal="{582D238B-D44C-46F1-9B27-423CAA178680}" A_Str_Answer="" A_User_AnswerAuthor="U_X_1A89DB6E-88C2-11DE-899E-0018F37790CC"/></O_ClaimRegistry></root>
+<root>
+  <Links>
+    <USER_DEF guid="U_X_1A89DB6E-88C2-11DE-899E-0018F37790CC" Description="Абашина Галина Ивановна" firstname="Галина" secondname="gabashina@gazpromproject.ru" Phone="(783) 36911" patronymic="Ивановна" email="gabashina@gazpromproject.ru"/>
+  </Links>
+  <O_ClaimRegistry ObjGuid="{C38A4959-D34C-467E-99FF-95B779DFCAD5}" ObjGuidExternal="{616476DE-31B5-48AE-9AE4-3CAD20BE824B}">
+    <O_DocClaim Folder="0XMPZT6rU" ObjGuid="{60D65FB1-DCB1-4FE4-98D0-5AFEC0979BE7}" ObjGuidExternal="{582D238B-D44C-46F1-9B27-423CAA178680}" A_Str_Answer="" A_Date_Answer="14.02.2022" A_User_AnswerAuthor="U_X_1A89DB6E-88C2-11DE-899E-0018F37790CC"/>
+  </O_ClaimRegistry>
+</root>
