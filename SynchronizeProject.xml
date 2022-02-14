@@ -1,0 +1,9 @@
+<root url="http://192.168.16.113:444/api/Flow0Response">
+  <O_Complex guid="{2B1C6ED4-17B0-4553-8756-B631F640BB9A}" A_Str_Designation="0203" A_Str_Name="Расширение ЕСГ для обеспечения подачи газа в газопровод «Южный поток».1-й этап (Западный коридор), для обеспечения подачи газа в объеме 31,5 млрд. м3/" A_Str_Note="новый комментарий">
+    <O_Folder_Complex_Structure guid="{28ECF8F2-0124-41EA-B37F-CED9190146CC}" A_Str_Name="Структура комплекса" />
+    <O_Project guid="{DEBDC3FF-E9E0-4F29-A948-E0F6FB7306AC}" A_Str_Designation="0203.001.001" A_Str_Name="1-Й ЭТАП (ВОСТОЧНЫЙ КОРИДОР), ДЛЯ ОБЕСПЕЧЕНИЯ ПОДАЧИ ГАЗА В ОБЪЕМЕ ДО 63 МЛРД.М3/ГОД Этап 2.1. Линейная часть. Участок «Починки-Анапа», км 0 –км 347,5 (км 0 – км 181, км 181 – км 295,7, км 295,7 – км 347,5)" A_Ref_Complex="{2B1C6ED4-17B0-4553-8756-B631F640BB9A}" />
+  </O_Complex>
+  <Links>
+    <O_Organization guid="{E17BC391-8108-4DCD-A06C-6E3F6406CF2A}" A_Str_Name="Санкт-Петербургcкий филиал" A_Str_Name_Short="СПф" A_Str_Address="ул. Петербургская, 23 - оф 4" A_Str_Inn="3664069397" A_Str_Subcontractor_Code="0001" ContactDescription="Васин Петр Николаевич - Директор" A_Str_Kpp="773101001" A_Str_Phone="+74955678597" A_Str_EMail="spb@gmail.com" />
+  </Links>
+</root>
