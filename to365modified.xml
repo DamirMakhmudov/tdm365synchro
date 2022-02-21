@@ -1,0 +1,9 @@
+<root Folder="C:\Users\Damir\Documents\гпп\tdm365\tdm365synchro\">
+  <Links>
+    <USER_DEF guid="SYSADMIN" Description="SYSADMIN" firstname="Сергей" secondname="" Phone="" patronymic="Михайлович" email=""/>
+  </Links>
+  <Dictionary/>
+  <O_ClaimRegistry guid="{C38A4959-D34C-467E-99FF-95B779DFCAD5}" A_Str_GUID_External="{616476DE-31B5-48AE-9AE4-3CAD20BE824B}" modified="false">
+    <O_DocClaim Folder="hVT6TmAf5" guid="{60D65FB1-DCB1-4FE4-98D0-5AFEC0979BE7}" A_Str_GUID_External="{582D238B-D44C-46F1-9B27-423CAA178680}" A_Str_Answer="gergregregeergerg" A_Str_AnswerDesc="" A_Date_Answer="17.02.2022 16:52:01" A_Ref_Doc="{75A6297C-6E2C-4F10-995D-7DE2EFC73A81}" A_Int_DocVersion="0" A_Ref_DocClaimRegistry="{C38A4959-D34C-467E-99FF-95B779DFCAD5}" A_User_AnswerAuthor="SYSADMIN"/>
+  </O_ClaimRegistry>
+</root>
